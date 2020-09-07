@@ -2,6 +2,9 @@ set number
 set ruler
 set hlsearch
 set incsearch
+set tabstop=2
+set shiftwidth=2
+set expandtab
 
 "netrw settings
 let g:netrw_banner = 0
